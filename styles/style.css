@@ -18,7 +18,7 @@
 .banner{
   color: white;
   text-align: right;
-  padding: 210px 260px 150px 1200px;
+  padding: 210px 263px 150px 900px;
 }
 
 .banner-title{
@@ -54,7 +54,7 @@
 .about-my-failures{
   display: flex;
   gap: 110px;
-  margin: 130px 500px 220px 300px;
+  margin: 130px 350px 220px 220px;
 }
 
 .about-section{
